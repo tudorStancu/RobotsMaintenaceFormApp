@@ -1,0 +1,13 @@
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\bin\Debug\Database1.mdf
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\bin\Debug\Database1_log.ldf
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\bin\Debug\Industrial Informatics Project.exe.config
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\bin\Debug\Industrial Informatics Project.exe
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\bin\Debug\Industrial Informatics Project.pdb
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\obj\Debug\Industrial Informatics Project.csproj.AssemblyReference.cache
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\obj\Debug\Industrial Informatics Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\obj\Debug\Industrial_Informatics_Project.Form1.resources
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\obj\Debug\Industrial_Informatics_Project.Properties.Resources.resources
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\obj\Debug\Industrial Informatics Project.csproj.GenerateResource.cache
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\obj\Debug\Industrial Informatics Project.csproj.CoreCompileInputs.cache
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\obj\Debug\Industrial Informatics Project.exe
+C:\Users\stanc\Desktop\Faculta anu 3\Sem 2\C#\Industrial Informatics Project\Industrial Informatics Project\obj\Debug\Industrial Informatics Project.pdb
